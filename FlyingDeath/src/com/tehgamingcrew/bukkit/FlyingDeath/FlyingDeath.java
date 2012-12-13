@@ -9,7 +9,7 @@ public class FlyingDeath extends JavaPlugin {
 	}
 
 	public void onDisable() {
-		
+		//disable
 	}
 	
 }
