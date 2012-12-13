@@ -8,6 +8,7 @@ import org.bukkit.plugin.java.JavaPlugin;
 
 
 public class FlyingDeath extends JavaPlugin {
+	//jush jush
 	
 	private Logger log = Logger.getLogger("Minecraft");
 	
