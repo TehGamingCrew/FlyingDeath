@@ -22,6 +22,7 @@ public class FlyingDeathDeathListener implements Listener {
 		    }
 		}
 		inv.clear();
+		event.setNewExp((int) (event.getEntity().getExp()/2));
 		
 	}
 
